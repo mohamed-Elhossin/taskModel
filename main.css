@@ -1,0 +1,10 @@
+.btn {
+    padding: 2px !important;
+}
+.cheaked{
+text-decoration: line-through;
+background-color: gray;
+}
+.display{
+    display: block;
+}
